@@ -10,7 +10,7 @@
 ## 🛰️ HTML & CSS Top Questions
 | Q.no | Question                                                                                              | Answer                                                                                                                                                         | Company              | Date       |
 |------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------|
-| 1    | Are the HTML tags and elements the same thing?                                                        |  [Go](https://www.interviewbit.com/html-interview-questions/#are-html-tags-and-elements-the-same)                                                              | ABC                  | Jul 2023   |
+| 1    | Are the HTML tags and elements the same thing?                                                        |  [Go](https://www.interviewbit.com/html-interview-questions/#are-html-tags-and-elements-the-same)                                                              | ABCD                 | Jul 2023   |
 | 2    |                                                                                                       |                                                                                                                                                                |                      |            |
 
 ---
